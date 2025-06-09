@@ -7,7 +7,7 @@ devops engineer but mainly just a coffee drinker
 - 👯 I’m looking to collaborate on sharing your snacks
 - 💬 Ask me about playing video games
 - 📫 How to reach me: just_dont_plz
-- ⚡ Fun fact: (Technologia)[https://www.youtube.com/shorts/IL9rjdx0xuo?feature=share]
+- ⚡ Fun fact: [Technologia](https://www.youtube.com/shorts/IL9rjdx0xuo?feature=share)
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=bilalmab&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
