@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=200&section=header&text=Hello,%20tis%20Bilal!&fontSize=52&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Professional%20Coffee%20Drinker&descAlignY=55&descSize=18" width="100%" />
 
 <a href="https://www.youtube.com/shorts/IL9rjdx0xuo?feature=share">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=800&color=7AA2F7&center=true&vCenter=true&width=560&lines=Migrating+EVERYTHING+to+GitHub;Automating+the+boring+stuff;Powered+by+caffeine+%E2%98%95;Technologia." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=800&color=7AA2F7&center=true&vCenter=true&width=560&lines=Automating+the+boring+stuff;Powered+by+caffeine+%E2%98%95;Technologia." alt="Typing SVG" />
 </a>
 
 <br />
@@ -52,9 +52,7 @@ fuel: coffee x infinity
 
 
 <img height="165" src="https://streak-stats.demolab.com?user=bilalmab&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
-
 <br /><br />
-
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilalmab&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity graph" width="100%" />
 
